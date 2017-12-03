@@ -1,0 +1,7 @@
+flask
+flask-graphql
+graphqlclient
+graphene
+pytest
+snapshottest
+flake8
