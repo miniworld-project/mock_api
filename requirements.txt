@@ -3,7 +3,7 @@ attrs==17.3.0
 click==6.7
 decorator==4.1.2
 flake8==3.5.0
-Flask==0.12.2
+Flask==1.0
 Flask-GraphQL==1.4.1
 graphene==2.0.1
 graphql-core==2.0
